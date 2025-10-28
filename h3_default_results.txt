@@ -1,0 +1,2136 @@
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 abmcare.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8562
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;abmcare.com.			IN	A
+
+;; ANSWER SECTION:
+abmcare.com.		300	IN	A	104.18.11.144
+abmcare.com.		300	IN	A	104.18.10.144
+
+;; Query time: 75 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:35 IST 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 anvilnetworksolutions.net
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20059
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;anvilnetworksolutions.net.	IN	A
+
+;; ANSWER SECTION:
+anvilnetworksolutions.net. 3600	IN	A	217.160.0.13
+
+;; Query time: 324 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:36 IST 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 archiportale.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 49780
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;archiportale.com.		IN	A
+
+;; ANSWER SECTION:
+archiportale.com.	300	IN	A	104.18.13.154
+archiportale.com.	300	IN	A	104.18.12.154
+
+;; Query time: 59 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:36 IST 2025
+;; MSG SIZE  rcvd: 77
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 arcoat.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43848
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;arcoat.com.			IN	A
+
+;; ANSWER SECTION:
+arcoat.com.		3600	IN	A	66.39.19.55
+
+;; Query time: 344 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:36 IST 2025
+;; MSG SIZE  rcvd: 55
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 asseenontvlaunchpad.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19880
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;asseenontvlaunchpad.com.	IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 68 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:36 IST 2025
+;; MSG SIZE  rcvd: 125
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 autopareri.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 55455
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;autopareri.com.			IN	A
+
+;; ANSWER SECTION:
+autopareri.com.		14400	IN	A	147.93.94.216
+
+;; Query time: 91 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:37 IST 2025
+;; MSG SIZE  rcvd: 59
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 bbqinjector.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 52227
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;bbqinjector.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 87 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:37 IST 2025
+;; MSG SIZE  rcvd: 117
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 begleyhutton.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62686
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;begleyhutton.com.		IN	A
+
+;; ANSWER SECTION:
+begleyhutton.com.	20954	IN	A	198.185.159.144
+begleyhutton.com.	20954	IN	A	198.49.23.144
+begleyhutton.com.	20954	IN	A	198.185.159.145
+begleyhutton.com.	20954	IN	A	198.49.23.145
+
+;; Query time: 83 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:37 IST 2025
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 bigliettieventi.info
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 21532
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;bigliettieventi.info.		IN	A
+
+;; AUTHORITY SECTION:
+info.			1800	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761665113 7200 900 1209600 3600
+
+;; Query time: 259 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:37 IST 2025
+;; MSG SIZE  rcvd: 128
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 bmw-parts.ru
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15873
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;bmw-parts.ru.			IN	A
+
+;; ANSWER SECTION:
+bmw-parts.ru.		2150	IN	A	91.236.136.97
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:37 IST 2025
+;; MSG SIZE  rcvd: 57
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 bookingnest.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 9435
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;bookingnest.com.		IN	A
+
+;; ANSWER SECTION:
+bookingnest.com.	1231	IN	A	76.223.54.146
+bookingnest.com.	1231	IN	A	13.248.169.48
+
+;; Query time: 93 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:38 IST 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 callcomm.info
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 43710
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;callcomm.info.			IN	A
+
+;; AUTHORITY SECTION:
+info.			1800	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761665113 7200 900 1209600 3600
+
+;; Query time: 198 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:38 IST 2025
+;; MSG SIZE  rcvd: 121
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 cdmail.fr
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19736
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;cdmail.fr.			IN	A
+
+;; ANSWER SECTION:
+cdmail.fr.		1087	IN	A	5.196.212.149
+
+;; Query time: 75 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:38 IST 2025
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 ceskykutil.cz
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 216
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;ceskykutil.cz.			IN	A
+
+;; ANSWER SECTION:
+ceskykutil.cz.		300	IN	A	80.211.205.242
+
+;; Query time: 405 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:39 IST 2025
+;; MSG SIZE  rcvd: 58
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 charityjob.co.uk
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 35887
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;charityjob.co.uk.		IN	A
+
+;; ANSWER SECTION:
+charityjob.co.uk.	300	IN	A	104.24.144.14
+charityjob.co.uk.	300	IN	A	104.24.145.14
+charityjob.co.uk.	300	IN	A	172.67.64.72
+
+;; Query time: 67 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:39 IST 2025
+;; MSG SIZE  rcvd: 93
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 chekiang.info
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 54029
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;chekiang.info.			IN	A
+
+;; AUTHORITY SECTION:
+info.			1800	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761665113 7200 900 1209600 3600
+
+;; Query time: 142 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:39 IST 2025
+;; MSG SIZE  rcvd: 121
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 chenghuavideo.asia
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: SERVFAIL, id: 44521
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+; EDE: 23 (Network Error): ([205.251.195.16] rcode=REFUSED for chenghuavideo.asia/a)
+; EDE: 23 (Network Error): ([205.251.192.90] rcode=REFUSED for chenghuavideo.asia/a)
+; EDE: 23 (Network Error): ([205.251.199.210] rcode=REFUSED for chenghuavideo.asia/a)
+; EDE: 23 (Network Error): ([205.251.196.238] rcode=REFUSED for chenghuavideo.asia/a)
+; EDE: 22 (No Reachable Authority): (At delegation chenghuavideo.asia for chenghuavideo.asia/a)
+;; QUESTION SECTION:
+;chenghuavideo.asia.		IN	A
+
+;; Query time: 407 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:39 IST 2025
+;; MSG SIZE  rcvd: 356
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 cia.it
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 10911
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;cia.it.				IN	A
+
+;; ANSWER SECTION:
+cia.it.			38	IN	A	3.248.13.228
+cia.it.			38	IN	A	54.228.218.49
+
+;; Query time: 413 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:40 IST 2025
+;; MSG SIZE  rcvd: 67
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 ciber.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47217
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;ciber.com.			IN	A
+
+;; ANSWER SECTION:
+ciber.com.		2796	IN	A	103.247.209.15
+
+;; Query time: 70 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:40 IST 2025
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 clickdownloadfiles.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14059
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;clickdownloadfiles.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665649 1800 900 604800 900
+
+;; Query time: 320 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:40 IST 2025
+;; MSG SIZE  rcvd: 124
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 consumerreviews24.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 58614
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;consumerreviews24.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 57 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 123
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 cosmeticaestheticsurgery.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48359
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;cosmeticaestheticsurgery.com.	IN	A
+
+;; ANSWER SECTION:
+cosmeticaestheticsurgery.com. 600 IN	A	15.197.148.33
+cosmeticaestheticsurgery.com. 600 IN	A	3.33.130.190
+
+;; Query time: 126 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 89
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 crsgfk.de
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 48887
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;crsgfk.de.			IN	A
+
+;; AUTHORITY SECTION:
+de.			1800	IN	SOA	f.nic.de. dns-operations.denic.de. 1761665552 7200 7200 3600000 7200
+
+;; Query time: 148 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 101
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 currencyrates.org
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14439
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;currencyrates.org.		IN	A
+
+;; ANSWER SECTION:
+currencyrates.org.	300	IN	A	104.21.23.70
+currencyrates.org.	300	IN	A	172.67.209.125
+
+;; Query time: 57 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 cushinglawoffices.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 8217
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;cushinglawoffices.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 117 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 123
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 cuteteenschoolgirlz.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 57398
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;cuteteenschoolgirlz.com.	IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 85 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 125
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 de.vu
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 42279
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;de.vu.				IN	A
+
+;; ANSWER SECTION:
+de.vu.			370	IN	A	81.28.232.69
+
+;; Query time: 63 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 50
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 dilw.ie
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33360
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;dilw.ie.			IN	A
+
+;; ANSWER SECTION:
+dilw.ie.		19585	IN	A	35.214.43.230
+
+;; Query time: 53 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 52
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 dock2office.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 25088
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;dock2office.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 75 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:41 IST 2025
+;; MSG SIZE  rcvd: 117
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 drglendza.co.rs
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 28423
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;drglendza.co.rs.		IN	A
+
+;; AUTHORITY SECTION:
+co.rs.			1800	IN	SOA	a.nic.rs. hostmaster.nic.rs. 2025102835 1800 900 2419200 3600
+
+;; Query time: 1130 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:43 IST 2025
+;; MSG SIZE  rcvd: 97
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 dricom-hosting.nl
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26492
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;dricom-hosting.nl.		IN	A
+
+;; ANSWER SECTION:
+dricom-hosting.nl.	300	IN	A	46.249.36.223
+
+;; Query time: 480 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:43 IST 2025
+;; MSG SIZE  rcvd: 62
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 e-daily.gr
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 46697
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;e-daily.gr.			IN	A
+
+;; ANSWER SECTION:
+e-daily.gr.		300	IN	A	104.26.12.52
+e-daily.gr.		300	IN	A	104.26.13.52
+e-daily.gr.		300	IN	A	172.67.70.26
+
+;; Query time: 147 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:43 IST 2025
+;; MSG SIZE  rcvd: 87
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 e-hps.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 59810
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;e-hps.com.			IN	A
+
+;; ANSWER SECTION:
+e-hps.com.		10498	IN	A	208.44.185.221
+
+;; Query time: 101 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:44 IST 2025
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 ecolems.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20463
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;ecolems.com.			IN	A
+
+;; ANSWER SECTION:
+ecolems.com.		300	IN	A	51.103.54.68
+
+;; Query time: 94 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:44 IST 2025
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 eggcityradio.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43758
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;eggcityradio.com.		IN	A
+
+;; ANSWER SECTION:
+eggcityradio.com.	1302	IN	A	103.224.182.253
+
+;; Query time: 87 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:44 IST 2025
+;; MSG SIZE  rcvd: 61
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 egov.sy
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30650
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;egov.sy.			IN	A
+
+;; ANSWER SECTION:
+egov.sy.		1584	IN	A	185.216.134.58
+
+;; Query time: 70 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:44 IST 2025
+;; MSG SIZE  rcvd: 52
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 fmnara.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25338
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;fmnara.com.			IN	A
+
+;; ANSWER SECTION:
+fmnara.com.		60	IN	A	49.247.215.98
+
+;; Query time: 364 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:45 IST 2025
+;; MSG SIZE  rcvd: 55
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 freeditorial.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37549
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;freeditorial.com.		IN	A
+
+;; ANSWER SECTION:
+freeditorial.com.	300	IN	A	51.178.246.100
+
+;; Query time: 81 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:45 IST 2025
+;; MSG SIZE  rcvd: 61
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 ftf.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61490
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;ftf.com.			IN	A
+
+;; ANSWER SECTION:
+ftf.com.		300	IN	A	23.227.38.65
+
+;; Query time: 95 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:45 IST 2025
+;; MSG SIZE  rcvd: 52
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 gadanguides.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61129
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;gadanguides.com.		IN	A
+
+;; ANSWER SECTION:
+gadanguides.com.	3600	IN	A	93.188.2.51
+
+;; Query time: 463 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 gadgetgearpro.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 51332
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;gadgetgearpro.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665649 1800 900 604800 900
+
+;; Query time: 70 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 119
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 gardenofwords.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 61611
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;gardenofwords.com.		IN	A
+
+;; ANSWER SECTION:
+gardenofwords.com.	300	IN	A	192.0.78.24
+gardenofwords.com.	300	IN	A	192.0.78.25
+
+;; Query time: 132 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 78
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 get-webby.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 46331
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;get-webby.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 58 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 115
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 ghimpele.ro
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48208
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;ghimpele.ro.			IN	A
+
+;; ANSWER SECTION:
+ghimpele.ro.		300	IN	A	89.35.160.167
+
+;; Query time: 79 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 giuseppelivraghi.it
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48676
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;giuseppelivraghi.it.		IN	A
+
+;; ANSWER SECTION:
+giuseppelivraghi.it.	2796	IN	A	89.46.108.54
+
+;; Query time: 100 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 64
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 gregginn.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21109
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;gregginn.com.			IN	A
+
+;; ANSWER SECTION:
+gregginn.com.		600	IN	A	15.197.148.33
+gregginn.com.		600	IN	A	3.33.130.190
+
+;; Query time: 127 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 73
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 gxjbsj.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 32755
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;gxjbsj.com.			IN	A
+
+;; ANSWER SECTION:
+gxjbsj.com.		600	IN	A	172.247.103.2
+
+;; Query time: 167 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 55
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 hayalforum.net
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 63434
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;hayalforum.net.			IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 57 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:46 IST 2025
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 hdcric.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26369
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;hdcric.com.			IN	A
+
+;; ANSWER SECTION:
+hdcric.com.		2896	IN	A	159.69.83.207
+hdcric.com.		2896	IN	A	95.216.161.60
+hdcric.com.		2896	IN	A	159.69.42.212
+hdcric.com.		2896	IN	A	159.69.186.9
+
+;; Query time: 59 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:47 IST 2025
+;; MSG SIZE  rcvd: 103
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 hralda.info
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 45072
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;hralda.info.			IN	A
+
+;; AUTHORITY SECTION:
+info.			1800	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761665113 7200 900 1209600 3600
+
+;; Query time: 119 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:47 IST 2025
+;; MSG SIZE  rcvd: 119
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 hutago.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13739
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;hutago.com.			IN	A
+
+;; ANSWER SECTION:
+hutago.com.		600	IN	A	118.27.125.209
+
+;; Query time: 209 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:47 IST 2025
+;; MSG SIZE  rcvd: 55
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 iael.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 50182
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;iael.com.			IN	A
+
+;; ANSWER SECTION:
+iael.com.		600	IN	A	139.162.174.209
+iael.com.		600	IN	A	172.104.251.198
+iael.com.		600	IN	A	172.104.149.86
+iael.com.		600	IN	A	139.162.181.76
+
+;; Query time: 178 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:47 IST 2025
+;; MSG SIZE  rcvd: 101
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 ishidatic.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4414
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;ishidatic.com.			IN	A
+
+;; ANSWER SECTION:
+ishidatic.com.		1800	IN	A	15.197.172.60
+
+;; Query time: 348 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:47 IST 2025
+;; MSG SIZE  rcvd: 58
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 laigang001.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 60425
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;laigang001.com.			IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665634 1800 900 604800 900
+
+;; Query time: 56 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:48 IST 2025
+;; MSG SIZE  rcvd: 116
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 marilynlingerie.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14456
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;marilynlingerie.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665649 1800 900 604800 900
+
+;; Query time: 366 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:48 IST 2025
+;; MSG SIZE  rcvd: 121
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 mechachal.org
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 58923
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;mechachal.org.			IN	A
+
+;; AUTHORITY SECTION:
+org.			1800	IN	SOA	a0.org.afilias-nst.info. hostmaster.donuts.email. 1761665246 7200 900 1209600 3600
+
+;; Query time: 260 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:48 IST 2025
+;; MSG SIZE  rcvd: 124
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 medipacademy.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 43381
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;medipacademy.com.		IN	A
+
+;; ANSWER SECTION:
+medipacademy.com.	300	IN	A	172.67.131.163
+medipacademy.com.	300	IN	A	104.21.4.41
+
+;; Query time: 131 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:49 IST 2025
+;; MSG SIZE  rcvd: 77
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 metar.gr
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45889
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;metar.gr.			IN	A
+
+;; ANSWER SECTION:
+metar.gr.		60	IN	A	75.119.133.58
+
+;; Query time: 524 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:49 IST 2025
+;; MSG SIZE  rcvd: 53
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 michaelbyers.org
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 51304
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;michaelbyers.org.		IN	A
+
+;; ANSWER SECTION:
+michaelbyers.org.	600	IN	A	198.185.159.144
+michaelbyers.org.	600	IN	A	198.185.159.145
+michaelbyers.org.	600	IN	A	198.49.23.145
+michaelbyers.org.	600	IN	A	198.49.23.144
+
+;; Query time: 121 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:50 IST 2025
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 minecraftserverdeals.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 16191
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;minecraftserverdeals.com.	IN	A
+
+;; ANSWER SECTION:
+minecraftserverdeals.com. 300	IN	A	104.21.1.113
+minecraftserverdeals.com. 300	IN	A	172.67.129.48
+
+;; Query time: 102 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:50 IST 2025
+;; MSG SIZE  rcvd: 85
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 monitis.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12108
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;monitis.com.			IN	A
+
+;; ANSWER SECTION:
+monitis.com.		20147	IN	A	188.172.236.218
+
+;; Query time: 109 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:50 IST 2025
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 morban.co.uk
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60273
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;morban.co.uk.			IN	A
+
+;; ANSWER SECTION:
+morban.co.uk.		3600	IN	A	217.160.0.111
+
+;; Query time: 320 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:50 IST 2025
+;; MSG SIZE  rcvd: 57
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 nasaspaceflight.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 28090
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;nasaspaceflight.com.		IN	A
+
+;; ANSWER SECTION:
+nasaspaceflight.com.	300	IN	A	172.66.40.183
+nasaspaceflight.com.	300	IN	A	172.66.43.73
+
+;; Query time: 58 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:50 IST 2025
+;; MSG SIZE  rcvd: 80
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 ncees.org
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52556
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;ncees.org.			IN	A
+
+;; ANSWER SECTION:
+ncees.org.		300	IN	A	172.66.158.97
+ncees.org.		300	IN	A	104.20.28.40
+
+;; Query time: 143 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:51 IST 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 noblewomanhood.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33033
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;noblewomanhood.com.		IN	A
+
+;; ANSWER SECTION:
+noblewomanhood.com.	598	IN	A	74.208.236.114
+
+;; Query time: 74 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:51 IST 2025
+;; MSG SIZE  rcvd: 63
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 note-so-easy.co.za
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24048
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;note-so-easy.co.za.		IN	A
+
+;; ANSWER SECTION:
+note-so-easy.co.za.	13736	IN	A	102.211.204.40
+
+;; Query time: 60 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:51 IST 2025
+;; MSG SIZE  rcvd: 63
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 oaister.org
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 62552
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;oaister.org.			IN	A
+
+;; ANSWER SECTION:
+oaister.org.		60	IN	A	132.174.1.212
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:51 IST 2025
+;; MSG SIZE  rcvd: 56
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 pahibu.net
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 14874
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;pahibu.net.			IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665649 1800 900 604800 900
+
+;; Query time: 66 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:51 IST 2025
+;; MSG SIZE  rcvd: 112
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 pet-connect.ru
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36062
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;pet-connect.ru.			IN	A
+
+;; ANSWER SECTION:
+pet-connect.ru.		19167	IN	A	194.58.112.174
+
+;; Query time: 77 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:51 IST 2025
+;; MSG SIZE  rcvd: 59
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 polymth.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25178
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;polymth.com.			IN	A
+
+;; ANSWER SECTION:
+polymth.com.		300	IN	A	104.21.57.169
+polymth.com.		300	IN	A	172.67.147.218
+
+;; Query time: 78 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:51 IST 2025
+;; MSG SIZE  rcvd: 72
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 romney.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 30363
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;romney.com.			IN	A
+
+;; ANSWER SECTION:
+romney.com.		3978	IN	A	208.91.197.27
+
+;; Query time: 65 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:52 IST 2025
+;; MSG SIZE  rcvd: 55
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 rterc.in
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 31186
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;rterc.in.			IN	A
+
+;; ANSWER SECTION:
+rterc.in.		60	IN	A	93.127.173.172
+rterc.in.		60	IN	A	88.222.243.230
+
+;; Query time: 79 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:52 IST 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 sailor.pl
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 47106
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;sailor.pl.			IN	A
+
+;; ANSWER SECTION:
+sailor.pl.		300	IN	A	88.99.19.146
+
+;; Query time: 448 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:52 IST 2025
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 sarahpartridge.net
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 27449
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;sarahpartridge.net.		IN	A
+
+;; AUTHORITY SECTION:
+net.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665649 1800 900 604800 900
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:52 IST 2025
+;; MSG SIZE  rcvd: 120
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 sendrakhizonline.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 24266
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;sendrakhizonline.com.		IN	A
+
+;; ANSWER SECTION:
+sendrakhizonline.com.	600	IN	A	20.244.2.144
+
+;; Query time: 360 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:53 IST 2025
+;; MSG SIZE  rcvd: 65
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 shishioh.info
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 13521
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;shishioh.info.			IN	A
+
+;; ANSWER SECTION:
+shishioh.info.		2370	IN	A	219.94.162.166
+
+;; Query time: 72 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:53 IST 2025
+;; MSG SIZE  rcvd: 58
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 silveropt.ru
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 50188
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;silveropt.ru.			IN	A
+
+;; AUTHORITY SECTION:
+ru.			1800	IN	SOA	a.dns.ripn.net. hostmaster.ripn.net. 4066501 86400 14400 2592000 3600
+
+;; Query time: 1287 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:54 IST 2025
+;; MSG SIZE  rcvd: 102
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 skyhightmatter.info
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17484
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;skyhightmatter.info.		IN	A
+
+;; AUTHORITY SECTION:
+info.			1800	IN	SOA	a0.info.afilias-nst.info. hostmaster.donuts.email. 1761665113 7200 900 1209600 3600
+
+;; Query time: 605 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:55 IST 2025
+;; MSG SIZE  rcvd: 127
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 sonoma-marinfair.org
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19757
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;sonoma-marinfair.org.		IN	A
+
+;; ANSWER SECTION:
+sonoma-marinfair.org.	300	IN	A	104.21.34.187
+sonoma-marinfair.org.	300	IN	A	172.67.163.188
+
+;; Query time: 78 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:55 IST 2025
+;; MSG SIZE  rcvd: 81
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 stkpro.ru
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 33069
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;stkpro.ru.			IN	A
+
+;; ANSWER SECTION:
+stkpro.ru.		6932	IN	A	205.251.138.125
+
+;; Query time: 49 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:55 IST 2025
+;; MSG SIZE  rcvd: 54
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 synchchaos.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 12735
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;synchchaos.com.			IN	A
+
+;; ANSWER SECTION:
+synchchaos.com.		600	IN	A	203.161.61.102
+
+;; Query time: 307 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:55 IST 2025
+;; MSG SIZE  rcvd: 59
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 synrc.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7064
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;synrc.com.			IN	A
+
+;; ANSWER SECTION:
+synrc.com.		300	IN	A	172.67.185.234
+synrc.com.		300	IN	A	104.21.40.117
+
+;; Query time: 63 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:55 IST 2025
+;; MSG SIZE  rcvd: 70
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 tangkas888.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 7100
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;tangkas888.com.			IN	A
+
+;; ANSWER SECTION:
+tangkas888.com.		300	IN	A	104.21.7.113
+tangkas888.com.		300	IN	A	172.67.130.50
+
+;; Query time: 71 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:56 IST 2025
+;; MSG SIZE  rcvd: 75
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 tawali.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 21210
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;tawali.com.			IN	A
+
+;; ANSWER SECTION:
+tawali.com.		600	IN	A	173.249.147.46
+
+;; Query time: 113 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:56 IST 2025
+;; MSG SIZE  rcvd: 55
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 teachmyass.info
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 23067
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;teachmyass.info.		IN	A
+
+;; ANSWER SECTION:
+teachmyass.info.	3600	IN	A	103.224.182.212
+
+;; Query time: 344 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:56 IST 2025
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 teleskill.it
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11960
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;teleskill.it.			IN	A
+
+;; ANSWER SECTION:
+teleskill.it.		300	IN	A	185.81.4.109
+
+;; Query time: 58 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:56 IST 2025
+;; MSG SIZE  rcvd: 57
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 tenant-internet.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 10015
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;tenant-internet.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665649 1800 900 604800 900
+
+;; Query time: 133 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:56 IST 2025
+;; MSG SIZE  rcvd: 121
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 texasbeyondhistory.net
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 8598
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;texasbeyondhistory.net.		IN	A
+
+;; ANSWER SECTION:
+texasbeyondhistory.net.	108	IN	A	146.6.162.220
+
+;; Query time: 79 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:56 IST 2025
+;; MSG SIZE  rcvd: 67
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 topbarbee.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54309
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;topbarbee.com.			IN	A
+
+;; ANSWER SECTION:
+topbarbee.com.		60	IN	A	159.203.135.249
+
+;; Query time: 73 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:57 IST 2025
+;; MSG SIZE  rcvd: 58
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 trackcheatingspouse.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1820
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;trackcheatingspouse.com.	IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665649 1800 900 604800 900
+
+;; Query time: 313 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:57 IST 2025
+;; MSG SIZE  rcvd: 125
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 uca.edu
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36021
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;uca.edu.			IN	A
+
+;; ANSWER SECTION:
+uca.edu.		581	IN	A	161.31.3.35
+
+;; Query time: 48 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:57 IST 2025
+;; MSG SIZE  rcvd: 52
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 urbannetwork.co.uk
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 6209
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;urbannetwork.co.uk.		IN	A
+
+;; ANSWER SECTION:
+urbannetwork.co.uk.	600	IN	A	85.92.70.198
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:57 IST 2025
+;; MSG SIZE  rcvd: 63
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 verlockeshop.de
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15106
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;verlockeshop.de.		IN	A
+
+;; ANSWER SECTION:
+verlockeshop.de.	600	IN	A	185.64.112.230
+
+;; Query time: 387 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:58 IST 2025
+;; MSG SIZE  rcvd: 60
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 video-peche-poisson.fr
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 18344
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;video-peche-poisson.fr.		IN	A
+
+;; AUTHORITY SECTION:
+fr.			600	IN	SOA	a.nic.fr. dnsmaster.afnic.fr. 2243060443 3600 1800 1209600 600
+
+;; Query time: 92 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:58 IST 2025
+;; MSG SIZE  rcvd: 109
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 vietcapitaltour.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 43309
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;vietcapitaltour.com.		IN	A
+
+;; AUTHORITY SECTION:
+com.			900	IN	SOA	a.gtld-servers.net. nstld.verisign-grs.com. 1761665649 1800 900 604800 900
+
+;; Query time: 120 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:58 IST 2025
+;; MSG SIZE  rcvd: 121
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 virtualjerusalem.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 29446
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;virtualjerusalem.com.		IN	A
+
+;; ANSWER SECTION:
+virtualjerusalem.com.	12097	IN	A	69.48.168.47
+
+;; Query time: 47 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:58 IST 2025
+;; MSG SIZE  rcvd: 65
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 vlielandoutdoorcenter.nl
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 65213
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;vlielandoutdoorcenter.nl.	IN	A
+
+;; ANSWER SECTION:
+vlielandoutdoorcenter.nl. 12278	IN	A	185.232.249.41
+
+;; Query time: 83 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:58 IST 2025
+;; MSG SIZE  rcvd: 69
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 vpndefender.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48944
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;vpndefender.com.		IN	A
+
+;; ANSWER SECTION:
+vpndefender.com.	60	IN	A	54.224.56.57
+vpndefender.com.	60	IN	A	34.234.125.61
+
+;; Query time: 69 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:58 IST 2025
+;; MSG SIZE  rcvd: 76
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 ximangquantrieu.com
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 11045
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;ximangquantrieu.com.		IN	A
+
+;; ANSWER SECTION:
+ximangquantrieu.com.	3108	IN	A	123.31.17.119
+
+;; Query time: 88 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:58 IST 2025
+;; MSG SIZE  rcvd: 64
+
+
+; <<>> DiG 9.20.11-0ubuntu0.2-Ubuntu <<>> @8.8.8.8 zpav.pl
+; (1 server found)
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 22237
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;zpav.pl.			IN	A
+
+;; ANSWER SECTION:
+zpav.pl.		14393	IN	A	83.238.107.112
+
+;; Query time: 62 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Tue Oct 28 21:04:59 IST 2025
+;; MSG SIZE  rcvd: 52
+
